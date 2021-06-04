@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuanCarlosCandido
 - 👀 I’m interested in learn about programming
-- 🌱 I’m currently learning JAVA using eclipse
+- 🌱 I’m currently learning JAVA using eclipse e Data Bases using MySQL
 - 📫 contact me : ruan.candido@hotmail.com
 
 <!---
