@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuanCarlosCandido
 - 👀 I’m interested in learn about programming
-- 🌱 I’m currently learning CSS/HTML
+- 🌱 I’m currently learning AWS
 - 📫 contact me : ruan.candido@hotmail.com
 
 <!---
